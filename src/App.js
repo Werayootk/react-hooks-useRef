@@ -1,11 +1,10 @@
 import "./App.css";
-import ReducerCase1 from './useReducerCase1/ReducerCase1';
-import ReducerCase2 from './useReducerCase2/ReducerCase2';
+import RefCase1 from './useRefCase1/RefCase1';
 
 function App() {
   return (
     <div className="App">
-      <ReducerCase2 />
+      <RefCase1 />
     </div>
   );
 }
